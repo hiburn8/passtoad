@@ -1,0 +1,9 @@
+Package: com.dreece.passtoad
+Name: passtoad
+Depends: mobilesubstrate
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: An awesome MobileSubstrate tweak!
+Maintainer: Daniel
+Author: Daniel
+Section: Tweaks
